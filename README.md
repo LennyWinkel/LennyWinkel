@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Lenny
 
-<!--
-**LennyWinkel/LennyWinkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student | Developer | Creator**
 
-Here are some ideas to get you started:
+I turn ideas into code and projects into real things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧠 Student from Germany (NRW)
+- 💻 Passionate about **web development, automation & system design**
+- ⚙️ Working with **HTML, CSS, JavaScript, PHP**  
+- 🔬 Interested in **physics, aerospace and engineering**
+- 🎥 Video editing & color grading with **DaVinci Resolve Studio**
+
+---
+
+## 🛠 Tech Stack
+
+```txt
+Languages:     HTML, CSS, JavaScript, PHP
+Tools:         Git, Linux, VS Code
+Other:         REST APIs, SQL, Automation, 3D Printing
